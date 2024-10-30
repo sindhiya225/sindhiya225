@@ -6,9 +6,9 @@
     <a href="https://www.linkedin.com/in/sindhiya-k-6534bb280" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
-    <a href="mailto:sindhiyauk@gmail.com" target="_blank">
-        <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="30" width="40" />
-    </a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sindhiyauk@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="30" width="40" />
+</a>
     <a href="https://www.leetcode.com/sindhiya225" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
     </a>
