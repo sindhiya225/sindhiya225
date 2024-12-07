@@ -4,7 +4,7 @@
 
 
 ### 📧 Reach Me Using
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/sindhiya-k-6534bb280) [<img src="https://img.shields.io/badge/GMail-ff4343?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sindhiyauk@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sindhiya-k-6534bb280) [<img src="https://img.shields.io/badge/GMail-ff4343?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sindhiyauk@gmail.com)
 
 ### 👨‍💻 Languages I Code
 <img src="https://img.shields.io/badge/C-2A5B8D?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-0076A8?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FCDC35?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Assembly-6E4B3A?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
